@@ -281,7 +281,7 @@ namespace livox_ros
       pointt->low = timestamp;
       // printf("****************timestamp=%ld\n", timestamp);
 
-      ROS_ERROR("pointt->low=%ld\n", pointt->low);
+      // ROS_ERROR("pointt->low=%ld\n", pointt->low);
     }
   }
 
