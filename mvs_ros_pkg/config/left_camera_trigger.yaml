@@ -9,7 +9,7 @@ TopicName: "left_camera/image"
 TriggerEnable: 1 # 0 stands for Off, 1 stands for On
 
 ExposureAutoMode: 0 # 0 stands for Off, 1 stands for Once, 2 stands for Continues
-ExposureTime: 80000 # us
+ExposureTime: 500 # us 500 outdoor,  80000 indoor
 
 # ExposureAutoMode: 2
 # AutoExposureTimeLower: 100
